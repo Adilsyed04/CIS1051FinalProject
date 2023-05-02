@@ -5,7 +5,6 @@ For my final project, I created a text-based adventure game called The Eye of Ma
 
 Link to Walkthrough for Final Project:
 - https://www.youtube.com/watch?v=fpTuEMU35r4
-Note: If the quality is bad, I've also included a .mp4 file of the walkthrough in the repository.
 
 Why did I choose to do a text-based adventure game?
 I chose to do this project as I wanted to make a game. As I'm not really skilled in python, I decided to make it a text-based game. This allowed me to create an adventure game with my skill level.
