@@ -3,8 +3,6 @@
 Description of Final Project:
 For my final project, I created a text-based adventure game called The Eye of Malthor. In this adventure game, you are faced with many choices like which path to take or what action you want to do. In this game, the choices can either lead to your death, some bad endings, or a good ending. That's why it's important to pay attention to the text and choose your options carefully. The main objective of this game is to defeat Malthor, the boss of the dungeon. If the player doesn't choose to face Malthor, then they'll be faced with disastrous consequences. Come try this game out and find out all the endings!
 
-Link to Walkthrough for Final Project:
-
 Why did I choose to do a text-based adventure game?
 I chose to do this project as I wanted to make a game. As I'm not really skilled in python, I decided to go to make the game a text-based game. In this way, I could create a game with many options to choose from, but it wouldn't very hard to do.
 
